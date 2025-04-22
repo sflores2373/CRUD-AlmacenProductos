@@ -1,7 +1,7 @@
 /** Implementa la parte de Modelo de Datos
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Sergio
+ * @version 1.0
  */
 package gestionalmacen01.modelo;
 
